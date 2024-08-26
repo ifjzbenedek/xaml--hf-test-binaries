@@ -156,7 +156,10 @@
           "Tesseract": "5.2.0"
         },
         "runtime": {
-          "XamlHomework.dll": {}
+          "XamlHomework.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
